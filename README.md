@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on getting my first Azure certification: AZ-900
+- ⚡ Fun fact: I love blazor
+  
 <!--
 **benoit160/benoit160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
