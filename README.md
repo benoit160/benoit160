@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on getting my first Azure certification: AZ-900
+- 🔭 I’m currently working on getting my second Azure certification: DP-420
 - ⚡ Fun fact: I love blazor
   
 <!--
